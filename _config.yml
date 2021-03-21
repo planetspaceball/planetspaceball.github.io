@@ -15,6 +15,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-menus
 
 authors:
   sal:
