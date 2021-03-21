@@ -2,3 +2,5 @@
 label: posts
 hide_body: false
 fields: []
+pages:
+- post.html
