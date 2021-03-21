@@ -4,6 +4,12 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: heading
+  label: Sidebar stuff
+- type: document
+  path: Links
+  label: Links
+  match: "**/*"
 - type: jekyll-posts
   label: Posts
   create: documents
