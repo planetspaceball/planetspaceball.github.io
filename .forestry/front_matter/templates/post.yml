@@ -25,6 +25,7 @@ fields:
   default: []
   label: tags
 pages:
+- _posts/03-06-2021.html
 - _posts/03-21-2021.html
 - _posts/03.22.2021.html
 - _posts/2019-01-18-customer-service.md
