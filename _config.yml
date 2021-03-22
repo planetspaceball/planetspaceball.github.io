@@ -43,8 +43,8 @@ defaults:
     path: _posts
   values:
     layout: post
-    author: sal
-    avatar: "/assets/images/avatar1.jpg"
+    author: psb
+    avatar: "/assets/images/grl.jpg"
 - scope:
     path: _pages
   values:
