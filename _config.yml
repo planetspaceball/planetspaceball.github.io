@@ -16,6 +16,13 @@ plugins:
 - jekyll-seo-tag
 - jekyll-menus
 authors:
+  psb:
+    name: psb
+    site: https://planetspaceball.github.io
+    avatar: "/assets/images/grl.jpg"
+    bio: Video games, sci-fi, astronomy, robots, and Led Zeppelin
+    email: 
+    twitter:
   sal:
     name: Sal
     site: https://www.wowthemes.net
