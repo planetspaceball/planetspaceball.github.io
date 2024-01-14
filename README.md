@@ -1,2 +1,2 @@
-theme: jekyll-theme-hacker
 # planetspaceball.github.io
+theme: jekyll-theme-hacker
